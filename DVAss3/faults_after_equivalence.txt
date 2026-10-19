@@ -1,0 +1,255 @@
+Remaining faults by gate:
+N4_basic: N4in_sa1, N4in_sa0
+N17_basic: N17in_sa0, N17in_sa1
+N30_basic: N30in_sa0, N30in_sa1
+N43_basic: N43in_sa0, N43in_sa1
+N56_basic: N56in_sa0, N56in_sa1
+N69_basic: N69in_sa0, N69in_sa1
+N82_basic: N82in_sa0, N82in_sa1
+N95_basic: N95in_sa0, N95in_sa1
+N108_basic: N108in_sa0, N108in_sa1
+N1_basic: N1in_sa1, N1in_sa0
+N11_basic: N11in_sa1, N11in_sa0
+N24_basic: N24in_sa0, N24in_sa1
+N37_basic: N37in_sa1, N37in_sa0
+N50_basic: N50in_sa1, N50in_sa0
+N63_basic: N63in_sa0, N63in_sa1
+N76_basic: N76in_sa1, N76in_sa0
+N89_basic: N89in_sa0, N89in_sa1
+N102_basic: N102in_sa0, N102in_sa1
+N8_basic: N8in_sa0, N8in_sa1
+N21_basic: N21in_sa1, N21in_sa0
+N34_basic: N34in_sa1, N34in_sa0
+N47_basic: N47in_sa1, N47in_sa0
+N60_basic: N60in_sa0, N60in_sa1
+N73_basic: N73in_sa0, N73in_sa1
+N86_basic: N86in_sa0, N86in_sa1
+N99_basic: N99in_sa0, N99in_sa1
+N112_basic: N112in_sa1, N112in_sa0
+N14_basic: N14in_sa0, N14in_sa1
+N27_basic: N27in_sa0, N27in_sa1
+N40_basic: N40in_sa1, N40in_sa0
+N53_basic: N53in_sa0, N53in_sa1
+N66_basic: N66in_sa0, N66in_sa1
+N79_basic: N79in_sa1, N79in_sa0
+N92_basic: N92in_sa1, N92in_sa0
+N105_basic: N105in_sa1, N105in_sa0
+N115_basic: N115in_sa1, N115in_sa0
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+NAND2X1: N118_sa1, N4_sa1, N154_sa0, N154_sa1
+NOR2X1: N8_sa0, N119_sa0
+NOR2X1: N14_sa0, N119_sa0
+NAND2X1: N122_sa1, N17_sa1, N159_sa0, N159_sa1
+NAND2X1: N126_sa1, N30_sa1, N162_sa0, N162_sa1
+NAND2X1: N130_sa1, N43_sa1, N165_sa0, N165_sa1
+NAND2X1: N134_sa1, N56_sa1, N168_sa0, N168_sa1
+NAND2X1: N138_sa1, N69_sa1, N171_sa0, N171_sa1
+NAND2X1: N142_sa1, N82_sa1, N174_sa0, N174_sa1
+NAND2X1: N146_sa1, N95_sa1, N177_sa0, N177_sa1
+NAND2X1: N150_sa1, N108_sa1, N180_sa0, N180_sa1
+NOR2X1: N21_sa0, N123_sa0
+NOR2X1: N27_sa0, N123_sa0
+NOR2X1: N34_sa0, N127_sa0
+NOR2X1: N40_sa0, N127_sa0
+NOR2X1: N47_sa0, N131_sa0
+NOR2X1: N53_sa0, N131_sa0
+NOR2X1: N60_sa0, N135_sa0
+NOR2X1: N66_sa0, N135_sa0
+NOR2X1: N73_sa0, N139_sa0
+NOR2X1: N79_sa0, N139_sa0
+NOR2X1: N86_sa0, N143_sa0
+NOR2X1: N92_sa0, N143_sa0
+NOR2X1: N99_sa0, N147_sa0
+NOR2X1: N105_sa0, N147_sa0
+NOR2X1: N112_sa0, N151_sa0
+NOR2X1: N115_sa0, N151_sa0
+AND2X1: N177_sa1, N180_sa1
+AND2X1: N154_sa1, ttmp1_sa1
+AND2X1: N159_sa1, ttmp2_sa1
+AND2X1: N162_sa1, ttmp3_sa1
+AND2X1: N165_sa1, ttmp4_sa1
+AND2X1: N168_sa1, ttmp5_sa1
+AND2X1: N171_sa1, ttmp6_sa1
+AND2X1: N174_sa1, ttmp7_sa1, N199_sa0, N199_sa1
+INVX1: 
+INVX1: 
+INVX1: 
+XOR2X1: N203_sa0, N203_sa1, N154_sa0, N154_sa1, N224_sa0, N224_sa1
+XOR2X1: N203_sa0, N203_sa1, N159_sa0, N159_sa1, N227_sa0, N227_sa1
+XOR2X1: N203_sa0, N203_sa1, N162_sa0, N162_sa1, N230_sa0, N230_sa1
+XOR2X1: N203_sa0, N203_sa1, N165_sa0, N165_sa1, N233_sa0, N233_sa1
+XOR2X1: N203_sa0, N203_sa1, N168_sa0, N168_sa1, N236_sa0, N236_sa1
+XOR2X1: N203_sa0, N203_sa1, N171_sa0, N171_sa1, N239_sa0, N239_sa1
+NAND2X1: N1_sa1, N213_sa1
+XOR2X1: N203_sa0, N203_sa1, N174_sa0, N174_sa1, N243_sa0, N243_sa1
+NAND2X1: N213_sa1, N11_sa1
+XOR2X1: N203_sa0, N203_sa1, N177_sa0, N177_sa1, N247_sa0, N247_sa1
+NAND2X1: N213_sa1, N24_sa1
+XOR2X1: N203_sa0, N203_sa1, N180_sa0, N180_sa1, N251_sa0, N251_sa1
+NAND2X1: N213_sa1, N37_sa1
+NAND2X1: N213_sa1, N50_sa1
+NAND2X1: N213_sa1, N63_sa1
+NAND2X1: N213_sa1, N76_sa1
+NAND2X1: N213_sa1, N89_sa1
+NAND2X1: N213_sa1, N102_sa1
+NAND2X1: N224_sa1, N157_sa1, N260_sa0, N260_sa1
+NAND2X1: N224_sa1, N158_sa1
+NAND2X1: N227_sa1, N183_sa1, N264_sa0, N264_sa1
+NAND2X1: N230_sa1, N185_sa1, N267_sa0, N267_sa1
+NAND2X1: N233_sa1, N187_sa1, N270_sa0, N270_sa1
+NAND2X1: N236_sa1, N189_sa1, N273_sa0, N273_sa1
+NAND2X1: N239_sa1, N191_sa1, N276_sa0, N276_sa1
+NAND2X1: N243_sa1, N193_sa1, N279_sa0, N279_sa1
+NAND2X1: N247_sa1, N195_sa1, N282_sa0, N282_sa1
+NAND2X1: N251_sa1, N197_sa1, N285_sa0, N285_sa1
+NAND2X1: N227_sa1, N184_sa1
+NAND2X1: N230_sa1, N186_sa1
+NAND2X1: N233_sa1, N188_sa1
+NAND2X1: N236_sa1, N190_sa1
+NAND2X1: N239_sa1, N192_sa1
+NAND2X1: N243_sa1, N194_sa1
+NAND2X1: N247_sa1, N196_sa1
+NAND2X1: N251_sa1, N198_sa1
+AND2X1: N282_sa1, N285_sa1
+AND2X1: N260_sa1, ttmp9_sa1
+AND2X1: N264_sa1, ttmp10_sa1
+AND2X1: N267_sa1, ttmp11_sa1
+AND2X1: N270_sa1, ttmp12_sa1
+AND2X1: N273_sa1, ttmp13_sa1
+AND2X1: N276_sa1, ttmp14_sa1
+AND2X1: N279_sa1, ttmp15_sa1, N296_sa0, N296_sa1
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+XOR2X1: N309_sa0, N309_sa1, N260_sa0, N260_sa1
+XOR2X1: N309_sa0, N309_sa1, N264_sa0, N264_sa1
+XOR2X1: N309_sa0, N309_sa1, N267_sa0, N267_sa1
+XOR2X1: N309_sa0, N309_sa1, N270_sa0, N270_sa1
+NAND2X1: N8_sa1, N319_sa1
+XOR2X1: N309_sa0, N309_sa1, N273_sa0, N273_sa1
+NAND2X1: N319_sa1, N21_sa1
+XOR2X1: N309_sa0, N309_sa1, N276_sa0, N276_sa1
+NAND2X1: N319_sa1, N34_sa1
+XOR2X1: N309_sa0, N309_sa1, N279_sa0, N279_sa1
+NAND2X1: N319_sa1, N47_sa1
+XOR2X1: N309_sa0, N309_sa1, N282_sa0, N282_sa1
+NAND2X1: N319_sa1, N60_sa1
+XOR2X1: N309_sa0, N309_sa1, N285_sa0, N285_sa1
+NAND2X1: N319_sa1, N73_sa1
+NAND2X1: N319_sa1, N86_sa1
+NAND2X1: N319_sa1, N99_sa1
+NAND2X1: N319_sa1, N112_sa1
+NAND2X1: N330_sa1, N300_sa1
+NAND2X1: N331_sa1, N301_sa1
+NAND2X1: N332_sa1, N302_sa1
+NAND2X1: N333_sa1, N303_sa1
+NAND2X1: N335_sa1, N304_sa1
+NAND2X1: N337_sa1, N305_sa1
+NAND2X1: N339_sa1, N306_sa1
+NAND2X1: N341_sa1, N307_sa1
+NAND2X1: N343_sa1, N308_sa1
+AND2X1: N355_sa1, N356_sa1
+AND2X1: N348_sa1, ttmp17_sa1
+AND2X1: N349_sa1, ttmp18_sa1
+AND2X1: N350_sa1, ttmp19_sa1
+AND2X1: N351_sa1, ttmp20_sa1
+AND2X1: N352_sa1, ttmp21_sa1
+AND2X1: N353_sa1, ttmp22_sa1
+AND2X1: N354_sa1, ttmp23_sa1, N357_sa0, N357_sa1
+INVX1: 
+INVX1: 
+NAND2X1: N14_sa1, N360_sa1
+NAND2X1: N360_sa1, N27_sa1
+NAND2X1: N360_sa1, N40_sa1
+NAND2X1: N360_sa1, N53_sa1
+NAND2X1: N360_sa1, N66_sa1
+NAND2X1: N360_sa1, N79_sa1
+NAND2X1: N360_sa1, N92_sa1
+NAND2X1: N360_sa1, N105_sa1
+NAND2X1: N360_sa1, N115_sa1
+AND2X1: N334_sa1, N371_sa1
+AND2X1: N4_sa1, ttmp25_sa1
+NAND2X1: N242_sa1, ttmp26_sa1
+AND2X1: N372_sa1, N17_sa1
+AND2X1: N246_sa1, ttmp28_sa1
+NAND2X1: N336_sa1, ttmp29_sa1, N381_sa0, N381_sa1
+AND2X1: N373_sa1, N30_sa1
+AND2X1: N250_sa1, ttmp31_sa1
+NAND2X1: N338_sa1, ttmp32_sa1, N386_sa0, N386_sa1
+AND2X1: N374_sa1, N43_sa1
+AND2X1: N254_sa1, ttmp34_sa1
+NAND2X1: N340_sa1, ttmp35_sa1, N393_sa0, N393_sa1
+AND2X1: N375_sa1, N56_sa1
+AND2X1: N255_sa1, ttmp37_sa1
+NAND2X1: N342_sa1, ttmp38_sa1, N399_sa0, N399_sa1
+AND2X1: N376_sa1, N69_sa1
+AND2X1: N256_sa1, ttmp40_sa1
+NAND2X1: N344_sa1, ttmp41_sa1, N404_sa0, N404_sa1
+AND2X1: N377_sa1, N82_sa1
+AND2X1: N257_sa1, ttmp43_sa1
+NAND2X1: N345_sa1, ttmp44_sa1, N407_sa0, N407_sa1
+AND2X1: N378_sa1, N95_sa1
+AND2X1: N258_sa1, ttmp46_sa1
+NAND2X1: N346_sa1, ttmp47_sa1, N411_sa0, N411_sa1
+AND2X1: N379_sa1, N108_sa1
+AND2X1: N259_sa1, ttmp49_sa1
+NAND2X1: N347_sa1, ttmp50_sa1
+INVX1: 
+AND2X1: N411_sa1, N414_sa1
+AND2X1: N381_sa1, ttmp52_sa1
+AND2X1: N386_sa1, ttmp53_sa1
+AND2X1: N393_sa1, ttmp54_sa1
+AND2X1: N399_sa1, ttmp55_sa1
+AND2X1: N404_sa1, ttmp56_sa1
+AND2X1: N407_sa1, ttmp57_sa1
+INVX1: 
+INVX1: 
+INVX1: 
+INVX1: 
+NOR2X1: N415_sa0, N416_sa0
+NAND2X1: N386_sa1, N417_sa1, N422_sa0, N422_sa1
+AND2X1: N418_sa1, N399_sa1
+AND2X1: N386_sa1, ttmp59_sa1
+NAND2X1: N393_sa1, ttmp60_sa1, N425_sa0, N425_sa1
+AND2X1: N393_sa1, N419_sa1
+NAND2X1: N399_sa1, ttmp62_sa1
+AND2X1: N407_sa1, N420_sa1
+AND2X1: N386_sa1, ttmp64_sa1
+NAND2X1: N393_sa1, ttmp65_sa1
+AND2X1: N422_sa1, N399_sa1
+AND2X1: N381_sa1, ttmp67_sa1
+NAND2X1: N386_sa1, ttmp68_sa1
+AND2X1: N425_sa1, N428_sa1
+AND2X1: N381_sa1, ttmp70_sa1
+NAND2X1: N386_sa1, ttmp71_sa1
+AND2X1: N425_sa1, N429_sa1
+AND2X1: N381_sa1, ttmp73_sa1
+NAND2X1: N422_sa1, ttmp74_sa1, N432_sa0, N432_sa1
+
+Total remaining faults: 540
